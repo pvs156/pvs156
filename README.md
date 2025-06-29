@@ -157,82 +157,6 @@ prashanth = SoftwareEngineer()
 
 ---
 
-<!-- Project 2 Placeholder -->
-<div align="center">
-
-### 🚀 [Enterprise Data Pipeline](https://github.com/pvs156/data-pipeline)
-**Scalable ETL solution for enterprise data processing**
-
-![Data Pipeline Demo](https://via.placeholder.com/700x350/0d1117/00d4ff?text=Enterprise+Data+Pipeline)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)]()
-
-**Features:** Real-time data processing, Automated ETL workflows, Scalable architecture, Performance monitoring
-
-[🔗 Repository](https://github.com/pvs156/data-pipeline) | [📖 Documentation](https://github.com/pvs156/data-pipeline#readme)
-
-</div>
-
----
-
-<!-- Project 3 Placeholder -->
-<div align="center">
-
-### 🤖 [AI Chatbot Framework](https://github.com/pvs156/ai-chatbot)
-**Intelligent conversational AI with NLP capabilities**
-
-![AI Chatbot Demo](https://via.placeholder.com/700x350/0d1117/00d4ff?text=AI+Chatbot+Framework)
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
-[![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=microservices&logoColor=white)]()
-
-**Features:** Natural language processing, Context-aware responses, Multi-platform integration, Analytics dashboard
-
-[🔗 Repository](https://github.com/pvs156/ai-chatbot) | [📖 Documentation](https://github.com/pvs156/ai-chatbot#readme)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Career Timeline**
-
-```mermaid
-timeline
-    title Professional Journey
-    
-    2021 : Schaffen Softwares
-         : Python Developer
-         : Django, ETL Pipelines
-    
-    2022 : Cognizant Technology Solutions
-         : Software Engineer
-         : PostgreSQL, TypeScript
-    
-    2023 : University of North Texas
-         : AI Research Assistant
-         : AI, Chatbots, ML Models
-    
-    2024 : Fidelity Information Service
-         : Software Engineer
-         : Java, Spring Boot, Microservices
-```
-
-### 🎯 **Key Achievements**
-- **🏆 Hackathon Winner**: Led team to victory at UNT College of Engineering with We Zaap
-- **🚀 Innovation**: Built LLM-powered interview platform using RAG pipelines and OpenAI APIs
-- **💡 Impact**: Developed AI chatbots serving thousands of users at UNT
-- **⚡ Performance**: Optimized ETL pipelines reducing processing time by 60%
-- **🔧 Architecture**: Designed microservices architecture handling 10k+ concurrent users
-
----
-
 ## 🤝 Connect & Collaborate
 
 <div align="center">
@@ -249,34 +173,9 @@ timeline
 
 ---
 
-## 🎯 Current Focus & Goals
 
-### 🚀 **2024 Objectives**
-- [ ] **Scale We Zaap**: Expand the AI interview platform to serve 10k+ users
-- [ ] **Open Source**: Contribute to 15+ AI/ML open source projects
-- [ ] **Innovation**: Build 3 production-ready LLM applications
-- [ ] **Knowledge Sharing**: Publish technical articles on AI/ML engineering
-- [ ] **Community**: Mentor junior developers in AI/ML technologies
-- [ ] **Certification**: Complete AWS AI/ML specialty certification
 
-### 🔬 **Research Interests**
-- **Large Language Models**: RAG architectures, fine-tuning, prompt engineering
-- **AI Ethics**: Responsible AI development and bias mitigation
-- **MLOps**: Production ML pipeline optimization and monitoring
-- **Edge AI**: Deploying ML models on edge devices
 
----
-
-## 📈 Contribution Activity
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  
-![Snake Animation](https://github.com/pvs156/pvs156/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🏆 GitHub Achievements
 
