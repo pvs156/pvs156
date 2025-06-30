@@ -117,7 +117,6 @@ me = Prashanth()
 **🥇 Hackathon Winner @ UNT College of Engineering**  
 *An LLM-powered platform revolutionizing interview prep with real-time AI feedback*
 
-![We Zaap Demo](https://via.placeholder.com/700x350/0d1117/00d4ff?text=We+Zaap+-+AI+Interview+Platform)
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)]()
 [![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6B6B?style=flat-square&logo=ai&logoColor=white)]()
@@ -125,7 +124,6 @@ me = Prashanth()
 
 **Key Features**: AI-driven feedback, voice recognition, personalized scenarios, 20% faster response time
 
-[🔗 Live Demo](https://we-zaap-demo.com) | [📖 Documentation](https://github.com/pvs156/we-zaap#readme)
 
 </div>
 
@@ -135,7 +133,7 @@ me = Prashanth()
 ### 💻 [Puller - Portfolio Matching Platform](https://github.com/pvs156/puller)
 *Scalable talent-matching platform using NLP and LLMs*
 
-![Puller Demo](https://via.placeholder.com/700x350/0d1117/00d4ff?text=Puller+-+Portfolio+Matching)
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]()
@@ -143,7 +141,6 @@ me = Prashanth()
 
 **Key Features**: Automated portfolio generation (weeks to 30 mins), 60% improved match accuracy
 
-[🔗 Live Demo](https://puller-demo.com) | [📖 Documentation](https://github.com/pvs156/puller#readme)
 
 </div>
 
