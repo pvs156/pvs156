@@ -106,42 +106,6 @@ me = Prashanth()
 
 ---
 
-## 🌟 Featured Projects
-
-<!-- We Zaap - Flagship Project -->
-<div align="center">
-
-### 🏆 [We Zaap - AI Mock Interview Platform](https://github.com/pvs156/we-zaap)
-**🥇 Hackathon Winner @ UNT College of Engineering**  
-*An LLM-powered platform revolutionizing interview prep with real-time AI feedback*
-
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)]()
-[![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6B6B?style=flat-square&logo=ai&logoColor=white)]()
-[![Whisper](https://img.shields.io/badge/Whisper_API-25D366?style=flat-square&logo=ai&logoColor=white)]()
-
-**Key Features**: AI-driven feedback, voice recognition, personalized scenarios, 20% faster response time
-
-
-</div>
-
-<!-- Puller Project -->
-<div align="center">
-
-### 💻 [Puller - Portfolio Matching Platform](https://github.com/pvs156/puller)
-*Scalable talent-matching platform using NLP and LLMs*
-
-
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)]()
-
-**Key Features**: Automated portfolio generation (weeks to 30 mins), 60% improved match accuracy
-
-
-</div>
-
 ---
 
 ## 🤝 Connect & Collaborate
