@@ -7,8 +7,6 @@ Reflects my futuristic portfolio aesthetic and vibrant, authentic personality. -
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Prashanth!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+ML+Engineer;Sensible+Human alt="Typing Animation" />
 
 </div>
 
