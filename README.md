@@ -2,6 +2,8 @@
 
 **AI Engineer** building LLM agents, retrieval-augmented generation (RAG) systems, and evaluation pipelines in Python on AWS. Based in Dallas, TX; open to relocation.
 
+I like agents with receipts: grounded answers, governed tools, and tests that catch regressions.
+
 - **Now:** AI Engineer at InRhythm (Arula AI), working on LangGraph multi-agent workflows, an MCP server for governed tool access, and evaluation gates in CI/CD.
 - **Previously:** AI Software Engineer at XSignOn, working on hybrid (BM25 + vector) RAG and LLM-as-judge graders calibrated against domain experts.
 - **Education:** M.S. in Computer Science, University of North Texas (May 2025; GPA 3.81).
