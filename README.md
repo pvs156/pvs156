@@ -20,7 +20,7 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [We Zaap](https://github.com/pvs156/We-ZAAPP-) | Hackathon-winning mock interview platform with generated questions, voice interaction, and feedback. | Python, Flask, OpenAI/Whisper, SQLAlchemy |
-| [Utility Bill Anomaly Detector](https://github.com/pvs156/UCM_POC) | Analyzes utility bills for usage, calculation, and rate anomalies and uses Claude to explain findings. | Python, Streamlit, pdfplumber, Claude API |
+| [GroundedGate](https://github.com/pvs156/grounded-gate) | Evidence-grounded agent with citation checks, deterministic validation gates, and an offline regression suite. | Python, FastAPI, Next.js, Anthropic SDK |
 
 ## Tech stack
 
